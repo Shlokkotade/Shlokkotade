@@ -79,7 +79,7 @@ I'm looking to collaborate on:
 - 📱 Phone: +91 9404804460  
 - 📍 Location: Kopargaon, Maharashtra, India  
 - 🌐 Portfolio: [https://shlokkotade.github.io/Portfolio/](https://shlokkotade.github.io/Portfolio/)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/shlok-kotade-patil-487419288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/shlok-kotade-patil-487419288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/shlok-kotade-patil-](https://www.linkedin.com/in/shlok-kotade-patil-)
 
 ---
 
