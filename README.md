@@ -1,90 +1,94 @@
 <h1 align="center">Hi 👋, I'm Shlok Kotade</h1>
-<h3 align="center">🚀 Passionate AI/ML Enthusiast | Aspiring Software Engineer | Competitive Coder</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Aspiring Software Engineer | Competitive Coder</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shlokkotade&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shlokkotade?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a B.Tech CSE (AI & ML) student at **Sanjivani College of Engineering**, Kopargaon.  
-💡 I enjoy solving real-world problems using code, especially at the intersection of AI and web technologies.  
-💻 I’m currently working on exciting full-stack projects and diving deeper into machine learning.  
-🏆 Secured **3rd place** in an industrial-level **HackerOne Hackathon** at Sanjivani University.
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Languages**: C++, Python, JavaScript, PHP, SQL  
-- **Frontend**: HTML5, CSS3, JavaScript, React.js  
-- **Backend**: Node.js, Express.js, PHP, MySQL  
-- **AI/ML**: Scikit-learn, Pandas, NumPy, TensorFlow (learning)  
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Linux, Docker (basics)  
-- **Competitive Programming**: Solving algorithmic challenges on LeetCode, HackerRank
+🎓 I'm a **B.Tech CSE (AI & ML)** student at **Sanjivani College of Engineering**, Kopargaon, Maharashtra  
+💡 Currently building **AI-powered web applications**  
+🏆 3rd Place - **HackerOne Hackathon** (Sanjivani University)  
+🛒 Backend dev for **Nature’s Cart** – an organic e-commerce platform  
+🛍️ Built an **Amazon Clone** project
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Tech Stack
 
-🔸 **Amazon Clone** – A frontend replica with product listing and cart functionality  
-🔸 **Nature's Cart** – Backend developer for an organic e-commerce platform connecting farmers to customers  
-🔸 **Portfolio Website** – Built a personal website using HTML, CSS, JavaScript  
-🔗 [Visit My Portfolio](https://shlokkotade.github.io/Portfolio/)
+**Languages**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🧠 Currently Learning
-
-- Advanced React and backend APIs  
-- Building scalable, AI-driven web applications  
-- Deepening ML foundations with hands-on datasets  
-- Cloud deployment with AWS & Vercel
-
----
-
-### 🤝 I’m Looking to Collaborate On
-
-- AI/ML-based web applications  
-- Open-source backend or full-stack projects  
-- Hackathons & coding challenges  
-- College-level or industrial problem statements
+**Backend / DB**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ---
 
-### 📫 Contact Me
+## 📈 GitHub Stats & Activity
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Shlokkotade&show_icons=true&theme=react" alt="Shlok's GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokkotade&theme=react" alt="GitHub Streak"/> |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokkotade&layout=compact&theme=react" alt="Top Languages" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokkotade&theme=github_dark"/> |
+
+---
+
+## 📚 Currently Learning
+
+- 📊 Machine Learning algorithms with real datasets  
+- 🔧 Scalable backend architecture  
+- ☁️ Cloud deployment with AWS & Vercel  
+- 🎯 Advanced React and API integrations
+
+---
+
+## 🧠 Competitive Coding
+
+- Solving on platforms like **LeetCode**, **HackerRank**, and **Codeforces**
+- Passionate about **DSA, problem-solving, and time-optimization**
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm looking to collaborate on:
+
+- 🔍 AI-driven products  
+- 💡 Open Source & Full-stack apps  
+- 📈 Real-world problem solving  
+- 🧠 Hackathons & innovation challenges
+
+---
+
+## 📫 Contact Me
 
 - 📧 Email: [shlokkotade07@gmail.com](mailto:shlokkotade07@gmail.com)  
-- 📞 Phone: +91 9404804460  
-- 🏠 Address: Kopargaon, Maharashtra, India  
-- 🌐 Portfolio: [https://shlokkotade.github.io/Portfolio/](https://shlokkotade.github.io/Portfolio/)
+- 📱 Phone: +91 9404804460  
+- 📍 Location: Kopargaon, Maharashtra, India  
+- 🌐 Portfolio: [https://shlokkotade.github.io/Portfolio/](https://shlokkotade.github.io/Portfolio/)  
+- 🔗 LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
-### 🌟 Fun Facts
+## 🏆 GitHub Metrics
 
-- 🔍 Obsessed with solving debugging puzzles  
-- 🎯 I learn best by building  
-- 🎮 Competitive coder by day, occasional gamer by night  
-- 🌱 Believer in continuous growth through collaboration
+> Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shlokkotade&show_icons=true&theme=radical" alt="Shlok's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokkotade&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
+![Metrics](https://github.com/Shlokkotade/Shlokkotade/blob/main/github-metrics.svg)
 
 ---
 
-### 🔗 Let’s Connect!
-
-<p align="center">
-  <a href="mailto:shlokkotade07@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shlok-kotade-2720102a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://shlokkotade.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
-
----
-
-_✨ Let's collaborate and bring ideas to life!_  
+_💬 “Let’s build impactful tech together!”_
